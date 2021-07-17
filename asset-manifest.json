@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dyte_React_Code_Editor/static/css/main.38d1d8b7.chunk.css",
+    "main.css": "/Dyte_React_Code_Editor/static/css/main.9ef56d57.chunk.css",
     "main.js": "/Dyte_React_Code_Editor/static/js/main.4420b479.chunk.js",
     "main.js.map": "/Dyte_React_Code_Editor/static/js/main.4420b479.chunk.js.map",
     "runtime-main.js": "/Dyte_React_Code_Editor/static/js/runtime-main.7a136243.js",
@@ -10,14 +10,14 @@
     "static/js/2.c21f281a.chunk.js.map": "/Dyte_React_Code_Editor/static/js/2.c21f281a.chunk.js.map",
     "index.html": "/Dyte_React_Code_Editor/index.html",
     "static/css/2.b7c10982.chunk.css.map": "/Dyte_React_Code_Editor/static/css/2.b7c10982.chunk.css.map",
-    "static/css/main.38d1d8b7.chunk.css.map": "/Dyte_React_Code_Editor/static/css/main.38d1d8b7.chunk.css.map",
+    "static/css/main.9ef56d57.chunk.css.map": "/Dyte_React_Code_Editor/static/css/main.9ef56d57.chunk.css.map",
     "static/js/2.c21f281a.chunk.js.LICENSE.txt": "/Dyte_React_Code_Editor/static/js/2.c21f281a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7a136243.js",
     "static/css/2.b7c10982.chunk.css",
     "static/js/2.c21f281a.chunk.js",
-    "static/css/main.38d1d8b7.chunk.css",
+    "static/css/main.9ef56d57.chunk.css",
     "static/js/main.4420b479.chunk.js"
   ]
 }
