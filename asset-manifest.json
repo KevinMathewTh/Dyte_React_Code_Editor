@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Dyte_React_Code_Editor/static/css/main.ce22b31c.chunk.css",
-    "main.js": "/Dyte_React_Code_Editor/static/js/main.5227d02d.chunk.js",
-    "main.js.map": "/Dyte_React_Code_Editor/static/js/main.5227d02d.chunk.js.map",
-    "runtime-main.js": "/Dyte_React_Code_Editor/static/js/runtime-main.08e9e1c4.js",
-    "runtime-main.js.map": "/Dyte_React_Code_Editor/static/js/runtime-main.08e9e1c4.js.map",
-    "static/css/2.3ceb25c6.chunk.css": "/Dyte_React_Code_Editor/static/css/2.3ceb25c6.chunk.css",
-    "static/js/2.4e55f8bb.chunk.js": "/Dyte_React_Code_Editor/static/js/2.4e55f8bb.chunk.js",
-    "static/js/2.4e55f8bb.chunk.js.map": "/Dyte_React_Code_Editor/static/js/2.4e55f8bb.chunk.js.map",
+    "main.css": "/Dyte_React_Code_Editor/static/css/main.38d1d8b7.chunk.css",
+    "main.js": "/Dyte_React_Code_Editor/static/js/main.4420b479.chunk.js",
+    "main.js.map": "/Dyte_React_Code_Editor/static/js/main.4420b479.chunk.js.map",
+    "runtime-main.js": "/Dyte_React_Code_Editor/static/js/runtime-main.7a136243.js",
+    "runtime-main.js.map": "/Dyte_React_Code_Editor/static/js/runtime-main.7a136243.js.map",
+    "static/css/2.b7c10982.chunk.css": "/Dyte_React_Code_Editor/static/css/2.b7c10982.chunk.css",
+    "static/js/2.c21f281a.chunk.js": "/Dyte_React_Code_Editor/static/js/2.c21f281a.chunk.js",
+    "static/js/2.c21f281a.chunk.js.map": "/Dyte_React_Code_Editor/static/js/2.c21f281a.chunk.js.map",
     "index.html": "/Dyte_React_Code_Editor/index.html",
-    "static/css/2.3ceb25c6.chunk.css.map": "/Dyte_React_Code_Editor/static/css/2.3ceb25c6.chunk.css.map",
-    "static/css/main.ce22b31c.chunk.css.map": "/Dyte_React_Code_Editor/static/css/main.ce22b31c.chunk.css.map",
-    "static/js/2.4e55f8bb.chunk.js.LICENSE.txt": "/Dyte_React_Code_Editor/static/js/2.4e55f8bb.chunk.js.LICENSE.txt"
+    "static/css/2.b7c10982.chunk.css.map": "/Dyte_React_Code_Editor/static/css/2.b7c10982.chunk.css.map",
+    "static/css/main.38d1d8b7.chunk.css.map": "/Dyte_React_Code_Editor/static/css/main.38d1d8b7.chunk.css.map",
+    "static/js/2.c21f281a.chunk.js.LICENSE.txt": "/Dyte_React_Code_Editor/static/js/2.c21f281a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.08e9e1c4.js",
-    "static/css/2.3ceb25c6.chunk.css",
-    "static/js/2.4e55f8bb.chunk.js",
-    "static/css/main.ce22b31c.chunk.css",
-    "static/js/main.5227d02d.chunk.js"
+    "static/js/runtime-main.7a136243.js",
+    "static/css/2.b7c10982.chunk.css",
+    "static/js/2.c21f281a.chunk.js",
+    "static/css/main.38d1d8b7.chunk.css",
+    "static/js/main.4420b479.chunk.js"
   ]
 }
